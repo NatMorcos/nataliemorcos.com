@@ -35,7 +35,6 @@ i.nav-icon {
 	height: 60px;
 	width: 60px;
 	line-height: 60px;
-
 }
 
 .nav-link:hover .nav-icon {
@@ -51,7 +50,6 @@ i.nav-icon {
 .email-icon{
 	display: block;
 	transition: all 0.4s ease;
-
 }
 
 footer:hover .email-icon {
